@@ -1,0 +1,45 @@
+*{
+    background-color:FEDAD6;
+    font-family: "Times New Roman", Times, serif;
+    background-image:url('https://www.freecodecamp.org/news/content/images/2021/06/w-qjCHPZbeXCQ-unsplash.jpg ');
+    color: black;
+    font-weight:Bold;background-repeat:no-repeat;
+}
+#title{
+    font-size:35px;
+    text-align:center;
+    color:F93819;
+}
+#description{
+    font-size:30px;
+    text-align:center;
+    color:080945;
+}
+#survey-form{
+    text-align:center;
+    
+}
+input{
+    margin-bottom:15px;
+    padding-right:20px;
+}
+label,p{
+    font-size:25px;
+}
+option{
+    background-color:F0F0F9;
+}
+.center{
+    border:1px solid black;
+    align-items:center;
+    width:800px;
+    margin:auto;    
+}
+button{
+    border:1px solid black;
+    padding:5px 15px;
+    border-radius:5px;
+}
+placeholder{
+    color:white;
+}
